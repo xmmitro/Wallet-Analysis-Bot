@@ -18,8 +18,8 @@ Ensure you have the following installed:
 ### Steps
 1. **Clone the Repository**
    ```sh
-   git clone https://github.com/YOUR-USERNAME/anti-sweeper-bot.git
-   cd anti-sweeper-bot
+   git clone https://github.com/xmmitro/Wallet-Analysis-Bot.git
+   cd Wallet-Analysis-Bot
    ```
 2. **Install Dependencies**
    ```sh
